@@ -35,5 +35,13 @@ nav a {
   background-color: #cccccc;
 }
 
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
+
 
 
